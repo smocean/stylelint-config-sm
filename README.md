@@ -10,7 +10,7 @@
 在全局中安装如下node.js依赖包：
 
 ```console
-$ npm install stylelint postcss -g
+$ npm install stylelint -g
 
 ```
 ```console
