@@ -5,7 +5,7 @@
 * 样式规范请参考[css编码规范](http://gitlab.alibaba-inc.com/shenma-frontend/documents/blob/master/FE%E6%96%B0%E4%BA%BA%E5%BF%85%E8%AF%BB/css%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md)
 
 
-## 安装node检测包
+## 安装 stylelint
 
 在全局中安装如下node.js依赖包：
 
@@ -17,7 +17,7 @@ $ npm install stylelint postcss -g
 $ npm install stylelint-config-sm －g
 ```
 
-## 安装编辑器检测插件
+## 集成编辑器检测插件
 * sublime text 3
 
 	1. 安装sublime text 3
@@ -35,8 +35,7 @@ $ npm install stylelint-config-sm －g
 }
 ```
 
-
-### 扩展配置
+## tips
 
 如有特殊需求，可以在配置文件中添加`rules`选项，覆盖或者添加新规则。
 
