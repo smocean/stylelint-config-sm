@@ -54,14 +54,12 @@ module.exports = {
 
         'block-closing-brace-newline-after': 'always',
         'block-closing-brace-newline-before': 'always',
-        'block-closing-brace-space-before': 'never',
+
         'block-no-empty': true,
         'block-no-single-line': true,
 
-        'block-opening-brace-newline-after': 'always-multi-line',
-        'block-opening-brace-newline-before': 'never-multi-line',
+        'block-opening-brace-newline-after': 'always',
         'block-opening-brace-space-before': 'always',
-        'block-opening-brace-space-after': 'never',
 
         'selector-attribute-brackets-space-inside': 'never',
         'selector-attribute-quotes': 'always',
@@ -112,7 +110,6 @@ module.exports = {
         }],
         'no-extra-semicolons': true,
         'no-invalid-double-slash-comments': true,
-        'no-unknown-animations': true,
-        'no-unsupported-browser-features': true
+        'no-unknown-animations': true
     }
 };
