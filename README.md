@@ -11,7 +11,7 @@ $ npm install stylelint -g
 ## stylelint config for sm.cn ##
 
 ```bash
-$ npm install stylelint-config-sm －g
+$ npm install stylelint-config-sm -g
 ```
 
 ## 集成 ##
